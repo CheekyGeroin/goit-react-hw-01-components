@@ -1,7 +1,6 @@
 import PropTypes from 'prop-types';
 import {
   Section,
-  Title,
   StatList,
   Item,
   Label,
